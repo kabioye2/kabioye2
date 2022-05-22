@@ -3,7 +3,6 @@
 - 👀 I’m interested in embedded software and software systems
 - 🌱 I’m currently learning C, Java, and JavaScript
 - 💞️ I’m looking to collaborate on any projects to further improve my coding skills
-- 📫 How to reach me: kabioye2@gmail.com
 
 
 <!---
